@@ -7,7 +7,7 @@ For Rayleigh Fading Channel using Jake’s fading simulator
 Check out example 1 MATLAB code
 <br />
 
- ![alt text](https://github.com/tahenan/DSSBuf/blob/main/photos/hw1.jpg)
+ ![alt text](https://github.com/tahenan/ChannelModelling/blob/main/photos/hw1.jpg)
 
 <br />
 

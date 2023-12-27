@@ -17,7 +17,7 @@ For Rayleigh Fading Channel using Jake’s fading simulator
 Results plotted for different samples and different symbol durations for time sampling 
 
 # Example 2 
-MIMO System 2*1 ; 2 Transmitter and 1 Receiver with two sets of ST Signals with 2*2 configuration sending at 2-time slots
+MIMO System 2*1, 2 Transmitter and 1 Receiver with two sets of ST Signals with 2*2 configuration sending at 2-time slots
 <br /> Check out example 1 : [Link](https://github.com/tahenan/ChannelModelling/blob/main/example2.m)
 <br />
 <br />
